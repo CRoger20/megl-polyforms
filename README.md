@@ -31,3 +31,4 @@ Back-end files:
 
 
 This project was made as part of the Visualizing Holey Hyperbolic Polyforms project of the Mason Experimental Geometry Lab at George Mason University in Fall 2024 and Spring 2025. All code contained within was written by Cooper Roger with help from Aiden Roger, Adithya Prabha, Summer Eldridge, and Dr. Ros Toala.
+See https://megl.science.gmu.edu/spring-2025/
